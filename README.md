@@ -1,1 +1,1 @@
-List of scripts for a particular task.
+Basic shell repo.
