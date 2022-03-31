@@ -1,1 +1,1 @@
-A Basic shell permissions script
+Basic shell permission scripts
