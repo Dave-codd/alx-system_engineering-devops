@@ -86,7 +86,7 @@ Filename                 Description
 
 
 
-21-reverse             Reverses its input
+21-reverse             Reverses its given input
 
 
 
