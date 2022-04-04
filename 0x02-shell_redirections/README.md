@@ -30,7 +30,7 @@ Filename                 Description
 
 
 
-7-file                 Creates a file named exactly *\'"Holberton School"'\*$?*****:) containing the test Holberton School ending by a new line
+7-file                 Creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 
 
 
