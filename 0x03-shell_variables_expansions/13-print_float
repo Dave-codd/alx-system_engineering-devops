@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM | xargs print "%.2f" | sort
+print "%.2f" $NUM | sort
